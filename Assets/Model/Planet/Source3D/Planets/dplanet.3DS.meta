@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 875a5cd52da57d147857923890221694
+timeCreated: 1518072708
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Debris01
+    100002: Debris02
+    100004: Debris03
+    100006: Debris04
+    100008: Debris05
+    100010: Debris06
+    100012: Debris07
+    100014: Debris08
+    100016: Debris09
+    100018: Debris10
+    100020: Debris11
+    100022: Debris12
+    100024: Debris13
+    100026: Debris14
+    100028: Debris15
+    100030: Debris16
+    100032: Debris17
+    100034: Debris18
+    100036: Debris19
+    100038: Debris20
+    100040: Debris21
+    100042: Debris22
+    100044: Debris23
+    100046: Debris24
+    100048: Debris25
+    100050: Destroyed_
+    100052: //RootNode
+    400000: Debris01
+    400002: Debris02
+    400004: Debris03
+    400006: Debris04
+    400008: Debris05
+    400010: Debris06
+    400012: Debris07
+    400014: Debris08
+    400016: Debris09
+    400018: Debris10
+    400020: Debris11
+    400022: Debris12
+    400024: Debris13
+    400026: Debris14
+    400028: Debris15
+    400030: Debris16
+    400032: Debris17
+    400034: Debris18
+    400036: Debris19
+    400038: Debris20
+    400040: Debris21
+    400042: Debris22
+    400044: Debris23
+    400046: Debris24
+    400048: Debris25
+    400050: Destroyed_
+    400052: //RootNode
+    2100000: 01 - Default
+    2300000: Debris01
+    2300002: Debris02
+    2300004: Debris03
+    2300006: Debris04
+    2300008: Debris05
+    2300010: Debris06
+    2300012: Debris07
+    2300014: Debris08
+    2300016: Debris09
+    2300018: Debris10
+    2300020: Debris11
+    2300022: Debris12
+    2300024: Debris13
+    2300026: Debris14
+    2300028: Debris15
+    2300030: Debris16
+    2300032: Debris17
+    2300034: Debris18
+    2300036: Debris19
+    2300038: Debris20
+    2300040: Debris21
+    2300042: Debris22
+    2300044: Debris23
+    2300046: Debris24
+    2300048: Debris25
+    2300050: Destroyed_
+    3300000: Debris01
+    3300002: Debris02
+    3300004: Debris03
+    3300006: Debris04
+    3300008: Debris05
+    3300010: Debris06
+    3300012: Debris07
+    3300014: Debris08
+    3300016: Debris09
+    3300018: Debris10
+    3300020: Debris11
+    3300022: Debris12
+    3300024: Debris13
+    3300026: Debris14
+    3300028: Debris15
+    3300030: Debris16
+    3300032: Debris17
+    3300034: Debris18
+    3300036: Debris19
+    3300038: Debris20
+    3300040: Debris21
+    3300042: Debris22
+    3300044: Debris23
+    3300046: Debris24
+    3300048: Debris25
+    3300050: Destroyed_
+    4300000: Destroyed_
+    4300002: Debris01
+    4300004: Debris02
+    4300006: Debris03
+    4300008: Debris04
+    4300010: Debris05
+    4300012: Debris06
+    4300014: Debris07
+    4300016: Debris08
+    4300018: Debris09
+    4300020: Debris10
+    4300022: Debris11
+    4300024: Debris12
+    4300026: Debris13
+    4300028: Debris14
+    4300030: Debris15
+    4300032: Debris16
+    4300034: Debris17
+    4300036: Debris18
+    4300038: Debris19
+    4300040: Debris20
+    4300042: Debris21
+    4300044: Debris22
+    4300046: Debris23
+    4300048: Debris24
+    4300050: Debris25
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
